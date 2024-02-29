@@ -32,3 +32,7 @@ Receiving objects: 100% (64/64), 218.85 KiB | 3.42 MiB/s, done.
 Resolving deltas: 100% (19/19), done.
 PS D:\prachi\java script\demo> code .
 PS D:\prachi\java script\demo>
+
+
+git pull with brach
+git pull origin branch nu nam
