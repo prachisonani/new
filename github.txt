@@ -1,0 +1,34 @@
+PS D:\prachi\java script\Java-Script> cd ..       
+
+
+    Directory: D:\prachi\java script
+
+
+Mode                LastWriteTime         Length  
+----                -------------         ------  
+d-----        29-Feb-24  10:18 PM                 
+
+
+PS D:\prachi\java script> ls
+
+
+    Directory: D:\prachi\java script
+
+----                -------------         ------
+d-----        12-Feb-24  06:12 PM
+d-----        29-Feb-24  10:18 PM
+d-----        29-Feb-24  09:33 PM
+d-----        29-Feb-24  03:47 PM
+-a----        29-Feb-24  03:47 PM         151858
+
+PS D:\prachi\java script> cd .\demo\
+PS D:\prachi\java script\demo> git clone https://github.com/prachisonani/Java-Script.git
+Cloning into 'Java-Script'...
+remote: Enumerating objects: 64, done.
+remote: Counting objects: 100% (64/64), done.
+remote: Compressing objects: 100% (50/50), done.
+remote: Total 64 (delta 19), reused 55 (delta 10), pack-reused 0  
+Receiving objects: 100% (64/64), 218.85 KiB | 3.42 MiB/s, done.   
+Resolving deltas: 100% (19/19), done.
+PS D:\prachi\java script\demo> code .
+PS D:\prachi\java script\demo>
